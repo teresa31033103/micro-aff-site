@@ -1,0 +1,44 @@
+{
+  "queue": [
+    {
+      "id": "windows-backup-tools",
+      "title": "Windowsバックアップツール比較",
+      "niche": "PC管理・効率化",
+      "intent": "比較・選定",
+      "keywords": [
+        "windows バックアップ ソフト 無料",
+        "windows バックアップ おすすめ"
+      ],
+      "affiliate_key": "windows-backup",
+      "status": "done",
+      "completed_at": "2026-03-08T04:01:46.801240"
+    },
+    {
+      "id": "password-manager-compare",
+      "title": "パスワードマネージャー比較2025",
+      "niche": "セキュリティ",
+      "intent": "比較・選定",
+      "keywords": [
+        "パスワードマネージャー 比較",
+        "パスワード管理 おすすめ 無料"
+      ],
+      "affiliate_key": "password-manager",
+      "status": "done",
+      "completed_at": "2026-03-08T04:04:01.285386"
+    },
+    {
+      "id": "vpn-for-remote-work",
+      "title": "リモートワーク向けVPN比較",
+      "niche": "テレワーク・セキュリティ",
+      "intent": "比較・選定",
+      "keywords": [
+        "vpn リモートワーク おすすめ",
+        "法人 vpn 比較"
+      ],
+      "affiliate_key": "vpn-service",
+      "status": "done",
+      "completed_at": "2026-03-08T04:04:24.628863"
+    }
+  ],
+  "generated": []
+}
