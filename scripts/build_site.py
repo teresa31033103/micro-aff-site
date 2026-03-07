@@ -14,7 +14,7 @@ ROOT = Path(__file__).parent.parent
 TEMPLATE_PATH = ROOT / "site" / "templates" / "page.html"
 DIST_DIR = ROOT / "dist"
 AFFILIATE_MAP_PATH = ROOT / "data" / "affiliate_map.json"
-SITE_DOMAIN = "teresa31033103.github.io/micro-aff-site"  # ← GitHub Pages URLに変更
+SITE_DOMAIN = "akane123.github.io/micro-aff-site"  # ← GitHub Pages URLに変更
 
 
 def load_json(path):
