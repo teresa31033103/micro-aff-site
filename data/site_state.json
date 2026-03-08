@@ -33,16 +33,16 @@
       "generated_at": "2026-03-08T18:01:15.305949"
     },
     {
-      "id": "vpn-for-hotel-wifi",
-      "slug": "vpn-for-hotel-wifi",
-      "title": "ホテルWi-Fi向けVPN比較",
-      "generated_at": "2026-03-08T18:20:36.699723"
-    },
-    {
       "id": "fixed-ip-vpn-comparison",
       "slug": "fixed-ip-vpn-comparison",
       "title": "固定IP対応VPN比較",
       "generated_at": "2026-03-08T18:25:46.087682"
+    },
+    {
+      "id": "vpn-for-hotel-wifi",
+      "slug": "vpn-for-hotel-wifi",
+      "title": "ホテルWi-Fi向けVPN比較",
+      "generated_at": "2026-03-08T18:20:36.699723"
     },
     {
       "id": "vpn-for-cafe-wifi",
