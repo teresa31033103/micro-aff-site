@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-03-08T20:59:15.836003",
-  "total_pages_generated": 21,
+  "last_run": "2026-03-08T21:11:11.455144",
+  "total_pages_generated": 22,
   "pages": [
     {
       "id": "windows-backup-tools",
@@ -103,6 +103,12 @@
       "slug": "vpn-for-remote-work",
       "title": "リモートワーク向けVPN比較",
       "generated_at": "2026-03-08T20:59:15.836001"
+    },
+    {
+      "id": "vpn-for-remote-work",
+      "slug": "vpn-for-remote-work",
+      "title": "リモートワーク向けVPN比較",
+      "generated_at": "2026-03-08T21:11:11.455142"
     }
   ],
   "sitemap_updated": false
