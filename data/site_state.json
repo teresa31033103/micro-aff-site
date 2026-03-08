@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-03-08T18:20:36.699725",
-  "total_pages_generated": 9,
+  "last_run": "2026-03-08T18:25:46.087684",
+  "total_pages_generated": 10,
   "pages": [
     {
       "id": "windows-backup-tools",
@@ -37,6 +37,12 @@
       "slug": "vpn-for-hotel-wifi",
       "title": "ホテルWi-Fi向けVPN比較",
       "generated_at": "2026-03-08T18:20:36.699723"
+    },
+    {
+      "id": "fixed-ip-vpn-comparison",
+      "slug": "fixed-ip-vpn-comparison",
+      "title": "固定IP対応VPN比較",
+      "generated_at": "2026-03-08T18:25:46.087682"
     }
   ],
   "sitemap_updated": false
