@@ -88,8 +88,8 @@
         "旅先 wifi 安全 vpn"
       ],
       "affiliate_key": "vpn-service",
-      "status": "pending",
-      "completed_at": "2026-03-08T20:09:20.487405"
+      "status": "done",
+      "completed_at": "2026-03-09T03:07:10.392330"
     },
     {
       "id": "vpn-for-cafe-wifi",
