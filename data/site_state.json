@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-03-09T03:08:04.936531",
-  "total_pages_generated": 36,
+  "last_run": "2026-03-09T03:08:21.060096",
+  "total_pages_generated": 37,
   "pages": [
     {
       "id": "windows-backup-tools",
@@ -193,6 +193,12 @@
       "slug": "vpn-for-coworking-space",
       "title": "コワーキングスペース向けVPN選び方",
       "generated_at": "2026-03-09T03:08:04.936528"
+    },
+    {
+      "id": "vpn-for-business-travel",
+      "slug": "vpn-for-business-travel",
+      "title": "出張向けVPN選び方ガイド",
+      "generated_at": "2026-03-09T03:08:21.060093"
     }
   ],
   "sitemap_updated": false
