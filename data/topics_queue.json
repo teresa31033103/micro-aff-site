@@ -2,7 +2,7 @@
   "queue": [
     {
       "id": "windows-backup-tools",
-      "title": "Windowsバックアップツール比較",
+      "title": "Windowsバックアップツール選び方",
       "niche": "PC管理・効率化",
       "intent": "比較・選定",
       "keywords": [
@@ -15,11 +15,11 @@
     },
     {
       "id": "password-manager-compare",
-      "title": "パスワードマネージャー比較2025",
+      "title": "パスワードマネージャー選び方2025",
       "niche": "セキュリティ",
       "intent": "比較・選定",
       "keywords": [
-        "パスワードマネージャー 比較",
+        "パスワードマネージャー 選び方",
         "パスワード管理 おすすめ 無料"
       ],
       "affiliate_key": "password-manager",
@@ -28,12 +28,12 @@
     },
     {
       "id": "vpn-for-remote-work",
-      "title": "リモートワーク向けVPN比較",
+      "title": "リモートワーク向けVPN選び方",
       "niche": "テレワーク・セキュリティ",
       "intent": "比較・選定",
       "keywords": [
         "vpn リモートワーク おすすめ",
-        "法人 vpn 比較"
+        "在宅 vpn 選び方"
       ],
       "affiliate_key": "vpn-service",
       "status": "done",
@@ -41,25 +41,25 @@
     },
     {
       "id": "best-vpn-for-travel",
-      "title": "旅行向けVPN比較",
+      "title": "旅行向けVPN選び方ガイド",
       "niche": "VPN・旅行・セキュリティ",
       "intent": "比較・選定",
       "keywords": [
         "旅行 vpn おすすめ",
-        "海外 wifi vpn 比較"
+        "海外 wifi vpn 選び方"
       ],
       "affiliate_key": "vpn-service",
       "status": "done",
-      "completed_at": "2026-03-09T02:31:36.376317"
+      "completed_at": "2026-03-09T02:34:35.144996"
     },
     {
       "id": "vpn-for-public-wifi",
-      "title": "フリーWi-Fi向けVPN比較",
-      "niche": "VPN・公衆Wi-Fi・セキュリティ",
+      "title": "フリーWi-Fi向けVPN選び方",
+      "niche": "VPN・公共Wi-Fi・セキュリティ",
       "intent": "比較・選定",
       "keywords": [
         "フリーwifi vpn おすすめ",
-        "公共 wifi vpn 比較"
+        "公共 wifi vpn 選び方"
       ],
       "affiliate_key": "vpn-service",
       "status": "done",
@@ -67,12 +67,12 @@
     },
     {
       "id": "fixed-ip-vpn-comparison",
-      "title": "固定IP対応VPN比較",
+      "title": "固定IP対応VPN選び方ガイド",
       "niche": "VPN・固定IP・テレワーク",
       "intent": "比較・選定",
       "keywords": [
         "固定ip vpn おすすめ",
-        "固定ip vpn 比較"
+        "固定ip vpn 選び方"
       ],
       "affiliate_key": "vpn-service",
       "status": "done",
@@ -80,12 +80,12 @@
     },
     {
       "id": "vpn-for-hotel-wifi",
-      "title": "ホテルWi-Fi向けVPN比較",
+      "title": "ホテルWi-Fi向けVPN選び方",
       "niche": "VPN・ホテルWi-Fi・セキュリティ",
       "intent": "比較・選定",
       "keywords": [
         "ホテル wifi vpn おすすめ",
-        "旅行 wifi 安全 vpn"
+        "旅先 wifi 安全 vpn"
       ],
       "affiliate_key": "vpn-service",
       "status": "done",
@@ -93,12 +93,12 @@
     },
     {
       "id": "vpn-for-cafe-wifi",
-      "title": "カフェWi-Fi向けVPN比較",
+      "title": "カフェWi-Fi向けVPN選び方",
       "niche": "VPN・カフェWi-Fi・セキュリティ",
       "intent": "比較・選定",
       "keywords": [
         "カフェ wifi vpn おすすめ",
-        "公共 wifi vpn 比較"
+        "公共 wifi vpn 選び方"
       ],
       "affiliate_key": "vpn-service",
       "status": "done",
@@ -106,12 +106,12 @@
     },
     {
       "id": "vpn-for-airport-wifi",
-      "title": "空港Wi-Fi向けVPN比較",
+      "title": "空港Wi-Fi向けVPN選び方",
       "niche": "VPN・空港Wi-Fi・セキュリティ",
       "intent": "比較・選定",
       "keywords": [
         "空港 wifi vpn おすすめ",
-        "空港 フリーwifi vpn 比較"
+        "空港 フリーwifi vpn 選び方"
       ],
       "affiliate_key": "vpn-service",
       "status": "done",
@@ -119,12 +119,12 @@
     },
     {
       "id": "vpn-for-coworking-space",
-      "title": "コワーキングスペース向けVPN比較",
+      "title": "コワーキングスペース向けVPN選び方",
       "niche": "VPN・コワーキング・セキュリティ",
       "intent": "比較・選定",
       "keywords": [
         "コワーキングスペース vpn おすすめ",
-        "共有 wifi vpn 比較"
+        "共用 wifi vpn 選び方"
       ],
       "affiliate_key": "vpn-service",
       "status": "done",
@@ -132,16 +132,16 @@
     },
     {
       "id": "vpn-for-business-travel",
-      "title": "出張向けVPN比較",
+      "title": "出張向けVPN選び方ガイド",
       "niche": "VPN・出張・セキュリティ",
       "intent": "比較・選定",
       "keywords": [
         "出張 vpn おすすめ",
-        "海外出張 wifi vpn 比較"
+        "海外出張 wifi vpn 選び方"
       ],
       "affiliate_key": "vpn-service",
       "status": "done",
-      "completed_at": "2026-03-08T19:18:57.384759"
+      "completed_at": "2026-03-08T19:18:57.384757"
     }
   ],
   "generated": []
