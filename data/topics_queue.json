@@ -64,6 +64,43 @@
       "affiliate_key": "vpn-service",
       "status": "done",
       "completed_at": "2026-03-08T18:01:15.305942"
+    },
+    {
+      "id": "fixed-ip-vpn-comparison",
+      "title": "固定IP対応VPN比較",
+      "niche": "VPN・固定IP・テレワーク",
+      "intent": "比較・選定",
+      "keywords": [
+        "固定ip vpn おすすめ",
+        "固定ip vpn 比較"
+      ],
+      "affiliate_key": "vpn-service",
+      "status": "pending"
+    },
+    {
+      "id": "vpn-for-hotel-wifi",
+      "title": "ホテルWi-Fi向けVPN比較",
+      "niche": "VPN・ホテルWi-Fi・セキュリティ",
+      "intent": "比較・選定",
+      "keywords": [
+        "ホテル wifi vpn おすすめ",
+        "旅行 wifi 安全 vpn"
+      ],
+      "affiliate_key": "vpn-service",
+      "status": "done",
+      "completed_at": "2026-03-08T18:20:36.699715"
+    },
+    {
+      "id": "vpn-for-cafe-wifi",
+      "title": "カフェWi-Fi向けVPN比較",
+      "niche": "VPN・カフェWi-Fi・セキュリティ",
+      "intent": "比較・選定",
+      "keywords": [
+        "カフェ wifi vpn おすすめ",
+        "公共 wifi vpn 比較"
+      ],
+      "affiliate_key": "vpn-service",
+      "status": "pending"
     }
   ],
   "generated": []
