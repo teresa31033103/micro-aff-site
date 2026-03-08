@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-03-08T18:28:44.556442",
-  "total_pages_generated": 12,
+  "last_run": "2026-03-08T19:18:57.384769",
+  "total_pages_generated": 15,
   "pages": [
     {
       "id": "windows-backup-tools",
@@ -49,6 +49,24 @@
       "slug": "vpn-for-cafe-wifi",
       "title": "カフェWi-Fi向けVPN比較",
       "generated_at": "2026-03-08T18:28:44.556440"
+    },
+    {
+      "id": "vpn-for-airport-wifi",
+      "slug": "vpn-for-airport-wifi",
+      "title": "空港Wi-Fi向けVPN比較",
+      "generated_at": "2026-03-08T19:18:04.511448"
+    },
+    {
+      "id": "vpn-for-coworking-space",
+      "slug": "vpn-for-coworking-space",
+      "title": "コワーキングスペース向けVPN比較",
+      "generated_at": "2026-03-08T19:18:34.171194"
+    },
+    {
+      "id": "vpn-for-business-travel",
+      "slug": "vpn-for-business-travel",
+      "title": "出張向けVPN比較",
+      "generated_at": "2026-03-08T19:18:57.384767"
     }
   ],
   "sitemap_updated": false

@@ -103,6 +103,45 @@
       "affiliate_key": "vpn-service",
       "status": "done",
       "completed_at": "2026-03-08T18:28:44.556433"
+    },
+    {
+      "id": "vpn-for-airport-wifi",
+      "title": "空港Wi-Fi向けVPN比較",
+      "niche": "VPN・空港Wi-Fi・セキュリティ",
+      "intent": "比較・選定",
+      "keywords": [
+        "空港 wifi vpn おすすめ",
+        "空港 フリーwifi vpn 比較"
+      ],
+      "affiliate_key": "vpn-service",
+      "status": "done",
+      "completed_at": "2026-03-08T19:18:04.511440"
+    },
+    {
+      "id": "vpn-for-coworking-space",
+      "title": "コワーキングスペース向けVPN比較",
+      "niche": "VPN・コワーキング・セキュリティ",
+      "intent": "比較・選定",
+      "keywords": [
+        "コワーキングスペース vpn おすすめ",
+        "共有 wifi vpn 比較"
+      ],
+      "affiliate_key": "vpn-service",
+      "status": "done",
+      "completed_at": "2026-03-08T19:18:34.171185"
+    },
+    {
+      "id": "vpn-for-business-travel",
+      "title": "出張向けVPN比較",
+      "niche": "VPN・出張・セキュリティ",
+      "intent": "比較・選定",
+      "keywords": [
+        "出張 vpn おすすめ",
+        "海外出張 wifi vpn 比較"
+      ],
+      "affiliate_key": "vpn-service",
+      "status": "done",
+      "completed_at": "2026-03-08T19:18:57.384759"
     }
   ],
   "generated": []
