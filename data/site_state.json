@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-03-09T03:07:27.818021",
-  "total_pages_generated": 34,
+  "last_run": "2026-03-09T03:07:44.980795",
+  "total_pages_generated": 35,
   "pages": [
     {
       "id": "windows-backup-tools",
@@ -181,6 +181,12 @@
       "slug": "vpn-for-cafe-wifi",
       "title": "カフェWi-Fi向けVPN選び方",
       "generated_at": "2026-03-09T03:07:27.818019"
+    },
+    {
+      "id": "vpn-for-airport-wifi",
+      "slug": "vpn-for-airport-wifi",
+      "title": "空港Wi-Fi向けVPN選び方",
+      "generated_at": "2026-03-09T03:07:44.980793"
     }
   ],
   "sitemap_updated": false
