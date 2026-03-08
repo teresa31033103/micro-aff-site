@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-03-09T03:01:11.619252",
-  "total_pages_generated": 31,
+  "last_run": "2026-03-09T03:03:11.776173",
+  "total_pages_generated": 32,
   "pages": [
     {
       "id": "windows-backup-tools",
@@ -163,6 +163,12 @@
       "slug": "vpn-for-public-wifi",
       "title": "フリーWi-Fi向けVPN選び方",
       "generated_at": "2026-03-09T03:01:11.619248"
+    },
+    {
+      "id": "fixed-ip-vpn-comparison",
+      "slug": "fixed-ip-vpn-comparison",
+      "title": "固定IP対応VPN選び方ガイド",
+      "generated_at": "2026-03-09T03:03:11.776171"
     }
   ],
   "sitemap_updated": false
