@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-03-09T02:37:20.954456",
-  "total_pages_generated": 27,
+  "last_run": "2026-03-09T02:49:15.097469",
+  "total_pages_generated": 28,
   "pages": [
     {
       "id": "windows-backup-tools",
@@ -139,6 +139,12 @@
       "slug": "best-vpn-for-travel",
       "title": "旅行向けVPN選び方ガイド",
       "generated_at": "2026-03-09T02:37:20.954454"
+    },
+    {
+      "id": "best-vpn-for-travel",
+      "slug": "best-vpn-for-travel",
+      "title": "旅行向けVPN選び方ガイド",
+      "generated_at": "2026-03-09T02:49:15.097467"
     }
   ],
   "sitemap_updated": false
