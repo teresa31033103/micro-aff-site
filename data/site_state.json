@@ -1,6 +1,6 @@
 {
-  "last_run": "2026-03-08T20:08:35.950408",
-  "total_pages_generated": 18,
+  "last_run": "2026-03-08T20:09:20.487415",
+  "total_pages_generated": 19,
   "pages": [
     {
       "id": "windows-backup-tools",
@@ -85,6 +85,12 @@
       "slug": "vpn-for-public-wifi",
       "title": "フリーWi-Fi向けVPN比較",
       "generated_at": "2026-03-08T20:08:35.950406"
+    },
+    {
+      "id": "vpn-for-hotel-wifi",
+      "slug": "vpn-for-hotel-wifi",
+      "title": "ホテルWi-Fi向けVPN比較",
+      "generated_at": "2026-03-08T20:09:20.487413"
     }
   ],
   "sitemap_updated": false
