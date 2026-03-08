@@ -3,8 +3,6 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [ main, master ]
-    paths:
-      - 'dist/**'
   workflow_dispatch:  # 手動実行も可能
 
 permissions:
