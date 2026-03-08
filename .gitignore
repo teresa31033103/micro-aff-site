@@ -5,5 +5,3 @@ __pycache__/
 .venv/
 venv/
 *.egg-info/
-dist/*.html
-!dist/index.html
