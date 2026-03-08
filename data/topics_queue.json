@@ -38,6 +38,32 @@
       "affiliate_key": "vpn-service",
       "status": "done",
       "completed_at": "2026-03-08T15:10:01.523996"
+    },
+    {
+      "id": "best-vpn-for-travel",
+      "title": "旅行向けVPN比較",
+      "niche": "VPN・旅行・セキュリティ",
+      "intent": "比較・選定",
+      "keywords": [
+        "旅行 vpn おすすめ",
+        "海外 wifi vpn 比較"
+      ],
+      "affiliate_key": "vpn-service",
+      "status": "done",
+      "completed_at": "2026-03-08T18:00:58.243692"
+    },
+    {
+      "id": "vpn-for-public-wifi",
+      "title": "フリーWi-Fi向けVPN比較",
+      "niche": "VPN・公衆Wi-Fi・セキュリティ",
+      "intent": "比較・選定",
+      "keywords": [
+        "フリーwifi vpn おすすめ",
+        "公共 wifi vpn 比較"
+      ],
+      "affiliate_key": "vpn-service",
+      "status": "done",
+      "completed_at": "2026-03-08T18:01:15.305942"
     }
   ],
   "generated": []
