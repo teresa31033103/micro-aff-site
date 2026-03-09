@@ -1,0 +1,24 @@
+{
+  "_readme": "各カテゴリのアフィリエイトリンクをここに登録する。",
+  "windows-backup": {
+    "primary_cta_url": "https://YOUR_AFFILIATE_LINK_HERE",
+    "primary_cta_label": "無料で試してみる →",
+    "secondary_cta_url": "https://YOUR_AFFILIATE_LINK_2_HERE",
+    "secondary_cta_label": "公式サイトで詳細を見る →",
+    "disclosure": "本ページには広告・アフィリエイトリンクが含まれます。"
+  },
+  "password-manager": {
+    "primary_cta_url": "https://YOUR_AFFILIATE_LINK_HERE",
+    "primary_cta_label": "無料プランを試す →",
+    "secondary_cta_url": "https://YOUR_AFFILIATE_LINK_2_HERE",
+    "secondary_cta_label": "プラン一覧を確認する →",
+    "disclosure": "本ページには広告・アフィリエイトリンクが含まれます。"
+  },
+  "vpn-service": {
+    "primary_cta_url": "https://px.a8.net/svt/ejp?a8mat=4AZBO2+9DKSS2+7QW+2HBVLT",
+    "primary_cta_label": "30日間無料で試す →",
+    "secondary_cta_url": "https://px.a8.net/svt/ejp?a8mat=4AZBO2+9DKSS2+7QW+2HBVLT",
+    "secondary_cta_label": "料金プランを見る →",
+    "disclosure": "本ページには広告・アフィリエイトリンクが含まれます。"
+  }
+}
